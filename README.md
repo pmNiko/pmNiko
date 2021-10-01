@@ -1,4 +1,4 @@
-### ¡Hey 👋! Soy pmNiko 
+### ¡Hey 👋! Soy nikoDev
 
 ```javascript
 const pmNiko = {
