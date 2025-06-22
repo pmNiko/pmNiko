@@ -8,32 +8,39 @@ Soy desarrollador full stack con enfoque en **frontend moderno**, **DevOps** e *
 
 - 🧠 Actualmente aprendiendo: **Svelte**, **SvelteKit** y **Astro**
 - ⚙️ Automatizo despliegues con **GitHub Actions**, versionado semántico y flujos `stage → main`
-- 🧪 Setup de testing: **Vitest** + **React Testing Library**
+- 🧪 Setup de testing: **Vitest**, **React Testing Library**, **Jest**
 - 📦 Publico paquetes NPM con `TSDX`
 - 🧩 Creador de herramientas como **DockPanel**, un panel para administrar contenedores Docker
 - 🌍 Trabajo en proyectos municipales y privados, con foco en **escalabilidad** y **mantenimiento profesional**
+- 🧱 Experiencia con arquitectura de **microfrontends**, monorepos y librerías compartidas
 
 ---
 
 ## 🧰 Stack actual
 
 **Frontend:**  
-`React`, `Next.js`, `Expo`, `Vite`, `Tailwind`, `MUI`, `Bootstrap`
+`React`, `Next.js`, `Expo`, `Vite`, `Tailwind CSS`, `MUI`, `Bootstrap`, `Astro`, `Qwik`, `Zustand`, `Formik`, `React Router`, `Storybook`
 
 **Backend:**  
-`Node.js`, `Express`, `NestJS`
-
-**Bases de datos:**  
-`PostgreSQL`, `MySQL`, `MongoDB`
+`Node.js`, `Express`, `NestJS`, `GraphQL`, `Apollo Server`, `Socket.io`, `JWT`, `Sequelize`, `Prisma`, `Strapi`
 
 **Mobile:**  
 `Flutter`, `React Native`
 
-**DevOps / Infraestructura:**  
-`Docker`, `Kubernetes`, `GitHub Actions`, `Huawei Cloud`, `SWR`, `Nginx`, `Traefik`, `Webhooks`, `Shell scripts`
+**Bases de datos:**  
+`PostgreSQL`, `MySQL`, `MongoDB`, `SQLite`
 
-**Versionado y flujos:**  
-`GitHub`, `Gitea`, `GitFlow`, `semantic-release`, `CI/CD`
+**DevOps / Infraestructura:**  
+`Docker`, `Docker Compose`, `Kubernetes`, `Nginx`, `Traefik`, `PM2`, `Certbot`, `GitHub Actions`, `CI/CD`, `Shell scripts`, `Webhooks`, `SWR`, `Vercel`
+
+**CMS y Frameworks adicionales:**  
+`Django`, `Laravel`, `Ruby on Rails`, `Sinatra`, `Jekyll`, `GraphQL Yoga`
+
+**Testing y herramientas auxiliares:**  
+`Vitest`, `Jest`, `React Testing Library`, `RuboCop`, `ESLint`, `Prettier`, `JSDoc`
+
+**Versionado y colaboración:**  
+`Git`, `GitHub`, `Gitea`, `GitFlow`, `semantic-release`, `Workspaces`, `Monorepo`, `pnpm`
 
 ---
 
@@ -42,7 +49,11 @@ Soy desarrollador full stack con enfoque en **frontend moderno**, **DevOps** e *
 - **AppSMA** → Sistema modular de gestión municipal  
 - **DockPanel** → Dashboard para controlar contenedores, imágenes y redes Docker  
 - **Atmos** → SPA en React con despliegue Kubernetes  
-- **El Dojo Svelte** → Repositorio didáctico para aprender Svelte paso a paso
+- **El Dojo Svelte** → Repositorio didáctico para aprender Svelte paso a paso  
+- **SUCI** → Sistema Único de Comanda Integral con GraphQL y React  
+- **Tasify** → App fullstack para gestión de tareas  
+- **mfe-shell & mfe-parcel** → Arquitectura de microfrontends en React  
+- **MunisMA Hooks & Components** → Librerías reutilizables: `useQueryMunisma`, `toastMunisma`, `useDownloadMunisma`
 
 ---
 
