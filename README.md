@@ -1,34 +1,57 @@
-### ¡Hey 👋! Soy nikoDev
+# 👋 ¡Hola! Soy NikoDev
 
-```javascript
-const pmNiko = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, Rubi],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Next"],
-         css: ["Materialize", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         js: ["Node", "Express"]
-      },
-      databases: ["MongoDB", "mySQL", "PostgreSQL"],
-      mobile: ["Flutter"]
-   },
-};
-```
+Soy desarrollador full stack con enfoque en **frontend moderno**, **DevOps** e **infraestructura automatizada**. Me apasiona crear sistemas robustos, optimizar pipelines de CI/CD y liderar flujos de trabajo colaborativos.
 
-<!--
-**pmNiko/pmNiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Actualmente aprendiendo: **Svelte**, **SvelteKit** y **Astro**
+- ⚙️ Automatizo despliegues con **GitHub Actions**, versionado semántico y flujos `stage → main`
+- 🧪 Setup de testing: **Vitest** + **React Testing Library**
+- 📦 Publico paquetes NPM con `TSDX`
+- 🧩 Creador de herramientas como **DockPanel**, un panel para administrar contenedores Docker
+- 🌍 Trabajo en proyectos municipales y privados, con foco en **escalabilidad** y **mantenimiento profesional**
+
+---
+
+## 🧰 Stack actual
+
+**Frontend:**  
+`React`, `Next.js`, `Expo`, `Vite`, `Tailwind`, `MUI`, `Bootstrap`
+
+**Backend:**  
+`Node.js`, `Express`, `NestJS`
+
+**Bases de datos:**  
+`PostgreSQL`, `MySQL`, `MongoDB`
+
+**Mobile:**  
+`Flutter`, `React Native`
+
+**DevOps / Infraestructura:**  
+`Docker`, `Kubernetes`, `GitHub Actions`, `Huawei Cloud`, `SWR`, `Nginx`, `Traefik`, `Webhooks`, `Shell scripts`
+
+**Versionado y flujos:**  
+`GitHub`, `Gitea`, `GitFlow`, `semantic-release`, `CI/CD`
+
+---
+
+## 📂 Proyectos destacados
+
+- **AppSMA** → Sistema modular de gestión municipal  
+- **DockPanel** → Dashboard para controlar contenedores, imágenes y redes Docker  
+- **Atmos** → SPA en React con despliegue Kubernetes  
+- **El Dojo Svelte** → Repositorio didáctico para aprender Svelte paso a paso
+
+---
+
+## 📫 ¿Cómo contactarme?
+
+- 🐙 GitHub: [@pmNiko](https://github.com/pmNiko)  
+- 💼 LinkedIn: [nicolas-paneblanco](https://linkedin.com/in/nicolas-paneblanco)  
+- ✉️ Email: **niko.dev.contact@gmail.com**
+
+---
+
+> “Automatizar es transformar lo repetitivo en oportunidad de crear.” — *NikoDev*
