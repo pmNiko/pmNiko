@@ -49,7 +49,7 @@ Soy desarrollador full stack con enfoque en **frontend moderno**, **DevOps** e *
 ## 📫 ¿Cómo contactarme?
 
 - 🐙 GitHub: [@pmNiko](https://github.com/pmNiko)  
-- 💼 LinkedIn: [nicolas-paneblanco](https://linkedin.com/in/nicolas-paneblanco)  
+- 💼 LinkedIn: [nicolas-paneblanco](https://www.linkedin.com/in/nicol%C3%A1s-paneblanco-527108190/)  
 - ✉️ Email: **niko.dev.contact@gmail.com**
 
 ---
