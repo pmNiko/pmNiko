@@ -16,6 +16,32 @@ Soy desarrollador full stack con enfoque en **frontend moderno**, **DevOps** e *
 
 ---
 
+## 🏅 Medallas
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /></br><sub><b>Docker</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /></br><sub><b>Node.js</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></br><sub><b>React</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></br><sub><b>React Pro</b></sub></td>
+     <td align="center"><img src="https://rxjs.dev/assets/images/logos/Rx_Logo_S.png" width="40" /></br><sub><b>RxJS</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" /></br><sub><b>Next.js</b></sub></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" /></br><sub><b>Zustand</b></sub>
+</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /></br><sub><b>TypeScript</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /></br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /></br><sub><b>VSCode</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" /></br><sub><b>Express</b></sub></td>
+    <td align="center"><img src="https://acortar.link/ryxbfc" width="40" /></br><sub><b>SOLID</b></sub></td>
+    <td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png" width="40" /></br><sub><b>Testing</b></sub></td>
+  </tr>
+</table>
+
+
+---
+
 ## 🧰 Stack actual
 
 **Frontend:**  
